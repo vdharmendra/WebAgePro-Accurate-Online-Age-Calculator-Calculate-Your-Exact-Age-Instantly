@@ -64,5 +64,3 @@ webagepro/
 <img src="./lp1.png" width="325px"/>
 <img src="./lp2.png" width="325px"/>
 </a>
-=======
->>>>>>> 8f3e5d90362994d6003082aae64d28609b8beb11
