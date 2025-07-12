@@ -1,5 +1,9 @@
 # WebAgePro - Calculate Your Exact Age Online
 
+
+<a href="https://www.linkedin.com/in/dharmendraverma95/" target="_blank">🧑‍💻 LinkedIn Profile </a> | <a href="https://www.behance.net/dhirukumar" target="_blank">🧑‍💻 Behance Profile </a>
+
+
 ## WebAgePro is a simple and user-friendly web application that allows users to calculate their exact age from their date of birth. It provides precise age information in years, months, days, hours, minutes, and even seconds.
 
 #### 🚀 Features
@@ -48,3 +52,14 @@ webagepro/
 - Enter your date of birth in the input field.
 - Click on the Calculate Age button.
 - Instantly view your exact age in various formats.
+
+<span>👉 Desktop Design</span><br/>
+<a href="https://www.behance.net/gallery/230193671/WebAgePro-Calculate-Your-Exact-Age-Online" target="_blank" >
+<img src="/ageCalc.gif" width="575px"/>
+</a>
+
+<span>📸 Desktop Design</span><br/>
+<a href="https://www.behance.net/gallery/230193671/WebAgePro-Calculate-Your-Exact-Age-Online" target="_blank" >
+<img src="./lp1.png" width="325px"/>
+<img src="./lp2.png" width="325px"/>
+</a>
